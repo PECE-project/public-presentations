@@ -8,7 +8,7 @@ website:
     title: "PECE Public Presentations"
     right:
       - text: "Talks"
-        href: talks.html
+        href: index.html
       - text: "Workshop Materials"
         href: workshop-materials.html
 
