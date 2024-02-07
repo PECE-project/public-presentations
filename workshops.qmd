@@ -1,0 +1,14 @@
+---
+title: "PECE Workshops"
+format: html
+author: "Lindsay Poirier"
+date: "Last updated on `r Sys.Date()`"
+---
+
+## PECE Workshop
+
+### Goethe University Frankfurt, Germany
+
+#### February 8, 2024
+
+[Link to workshop materials](workshops/frankfurt2024.html)

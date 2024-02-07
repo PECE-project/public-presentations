@@ -10,7 +10,7 @@ website:
       - text: "Talks"
         href: index.html
       - text: "Workshop Materials"
-        href: workshop-materials.html
+        href: workshops.html
 
 format:
   html:
