@@ -27,9 +27,11 @@ execute:
 
 ## ...an experiment in collaborative hermeneutics
 
-<iframe src="https://pollev-embeds.com/free_text_polls/9QUl5IBYv4J4Mw445Pzog/respond" width="800px" height="600px">
+[PollEv.com/lindsaysmith](pollev.com/lindsaysmith)
 
-</iframe>
+<iframe src="https://embed.polleverywhere.com/free_text_polls/5dnbWMXw56JuOar2JVKN8?controls=none&short_poll=true" width="800px" height="600px"></iframe>
+
+
 
 ::: notes
 As with any PECE talk, we are going to start with an experiment. We're going to start with a short activity to get us thinking about the affordances of PECE.
