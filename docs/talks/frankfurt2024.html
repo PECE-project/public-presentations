@@ -704,7 +704,23 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-11" class="slide level2" data-background-image="img/analytics.png" data-background-size="800px">
+<section id="section-11" class="slide level2" data-background-image="img/tags.png" data-background-size="800px">
+<h2></h2>
+<aside class="notes">
+<p>Instead we prioritized tagging as a system for content discovery and organization. Any data uploaded to the platform can be assigned a series of tags. We don’t control these tags, though we do suggest that PECE communities develop some social protocols around tagging. Content will appear in many places on the platform if it has been associated with many tags - it’s not delimited to one category or one folder. Navigate to a “tag page” and you may find your own content or you may find content you didn’t expect to find there. It’s a way to stumble on content you didn’t know may be related to your own.</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="section-12" class="slide level2" data-background-image="img/analytics.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>On to another design logic- Drawing on the work of Evelyn Fox Keller, another one of our design logics prioritizes “exploratory pluralism” - rather than aiming to coverage on one interpretation of empirical ethnographic data, we seek to design a system that encourages multiple, differentially-situated interpretations, creating kaleidoscopic views of ethnographic sites rather than singular or singularly consistent ones. The structure of PECE’s annotation system was designed to realize this design logic. All artifacts in the system can be annotated. This is different than the kind of annotation that systems like MaxQDA, Atlas.ti, or NVivo facilitate. Our annotation system does not involve breaking apart a text and coding it to facilitate interpretation. Instead, users upload sets of shared ethnographic questions. Here is one example of a question set. … Any artifact on the platform can be annotated with any question set. You don’t have to answer all of the questions, and at any point you can add a question.</p>
@@ -720,7 +736,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-12" class="slide level2" data-background-image="img/annotation.png" data-background-size="800px">
+<section id="section-13" class="slide level2" data-background-image="img/annotation.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>…but afterwards, we provide different pathways into viewing the plurality of perspectives represented in the platform. For instance, there is a page to see all of the responses to the same question for the same artifact, providing opportunities to visualize the kaleidoscope of viewpoints that emerge around a single data point. We refer to this affordance as collaborative hermeneutics, and for me, this is one of the most important innovations of the system. (I’ll note that this is also the user interface that is my highest priority for redesigning right now; I think there are exciting opportunities for visualizing the responses to questions in more kaleidoscopic ways than lists on web page).</p>
@@ -803,10 +819,10 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-13" class="slide level2" data-background-image="img/marcus.png" data-background-size="800px">
+<section id="section-14" class="slide level2" data-background-image="img/marcus.png" data-background-size="800px">
 <h2></h2>
 </section>
-<section id="section-14" class="slide level2" data-background-image="img/permissions.png" data-background-size="800px">
+<section id="section-15" class="slide level2" data-background-image="img/permissions.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>Designing information architecture attentive to these concerns meant that we needed to design very nuanced forms of access control into the database model; we had to design a permission system that allowed for very fine-grained levels of access restrictions for every piece of content created on the platform. Perhaps only the ethnographer that created the artifact would have access to view the data; perhaps all and only the researchers that are funded under the same grant have view access. Designing the architecture also meant figuring out how to “contextualize” published data; how to provide opportunities for ethnographers to characterize where the data came from - the interpretive lens that rendered it into a piece of data - without suggesting that there was only one right way to interpret the data.</p>
@@ -822,7 +838,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-15" class="slide level2" data-background-image="img/rda.png" data-background-size="1200px">
+<section id="section-16" class="slide level2" data-background-image="img/rda.png" data-background-size="1200px">
 <h2></h2>
 <aside class="notes">
 <p>On all of these accounts we were inspired by work at the Research Data Alliance - a community of researchers attempting to design infrastructures and protocols to reduce the social and technical barriers to interdisciplinary and international data sharing. We became involved with this organization in its early days, representing the data infrastructure needs of the “empirical humanities” in the process. Now quickly we learned that our epistemological commitments differed considerably from many representatives at RDA. At RDA there was a real focus on making scientific “reproducibility” possible through infrastructure that fully documented data provenance. The aim was to design infrastructure that would make it possible to converge on the truth of scientific data by documenting the context of data production so well that others could repeat experiments and verify the results.</p>
@@ -862,7 +878,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-16" class="slide level2" data-background-image="img/crit.png" data-background-size="800px">
+<section id="section-17" class="slide level2" data-background-image="img/crit.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>Architecturally this meant figuring out how to encode “context” without relying on certain standardized, stabilized metadata models. How do we design systems that recognize contextualization as a categorizing moment? - not predetermining what counts as context, not treating context as something that can ever be fully saturated. Letting researchers decide what counts as relevant context to them. We ended up adopting “light” versions of certain metadata standards in our system. For instance, when uploading data to the platform, users are asked to fill out a series of fields that map onto the fields proposed in the Dublin Core metadata model. This is considered one of the “lightest” metadata models and was designed deliberately so in order to be relevant to as many diverse communities as possible. Researchers are asked to document information about the data’s source: when it was created, by whom, in which fieldsite, etc. There is also a field where researchers are asked to leave “critical commentary” about the artifact, offering narrative interpretation of the artifact’s significance. This critical commentary moves with the artifact in every place it could potentially appear on the platform. You can’t link to an artifact without its critical commentary. Critical commentary is a required field. While some users find it time-consuming and annoying to have to fill this out for every piece of data we add to the system, we find it critical for enabling the kind of responsible collaboration we hope the system can facilitate.</p>
@@ -900,7 +916,7 @@
 <ul>
 <li class="fragment"><a href="https://disaster-sts-network.org/content/chasing-environmental-injustice-santa-ana-california-tactical-history-2020">Timeline Essays</a></li>
 <li class="fragment"><a href="https://disaster-sts-network.org/content/photo-essay-courtroom-sketches-yunlin-tainan-county-%E6%B3%95%E5%BA%AD%E8%A7%80%E5%AF%9F%E9%9B%B2%E6%9E%97%E3%80%81%E5%8F%B0%E5%8D%97%E6%B3%95%E9%99%A2">Photo Essays</a></li>
-<li class="fragment"><a href="https://disaster-sts-network.org/content/chasing-environmental-injustice-santa-ana-california-tactical-history-2020">PECE Essays</a></li>
+<li class="fragment"><a href="https://disaster-sts-network.org/content/sugar-plantations-chemical-plants-covid-19">PECE Essays</a></li>
 </ul>
 <aside class="notes">
 <p>We’ve attempted to design PECE into a space that embodies an experimentalist spirit - to design it into a space where researchers can engage in play. For instance, one way to pull together data and analyses in PECE is through the design of a series of publications. We designed these publications to be “collage-like.” You can pull from content all over the system and drag and drop that content in creative ways to tell some kind of larger ethnographic story. You can organize them temporally to tell a historical story.</p>
@@ -921,7 +937,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-17" class="slide level2" data-background-image="img/mobile.png" data-background-size="500px">
+<section id="section-18" class="slide level2" data-background-image="img/mobile.jpg" data-background-size="500px">
 <h2></h2>
 <aside class="notes">
 <p>I sometimes even find myself wanting to make certain essays less customizable. Full customizability of user interfaces can produce material that looks terrible on mobile devices and tablets. Keeping true to our experimental commitments while also serving our user base, I think has been the hardest challenge of designing PECE. I consider part of the PECE experiment “staying with the trouble” here.</p>
@@ -954,7 +970,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-18" class="slide level2" data-background-image="img/projects.png" data-background-size="600px">
+<section id="section-19" class="slide level2" data-background-image="img/projects.png" data-background-size="600px">
 <h2></h2>
 <aside class="notes">
 <p>Right now it is hosting more than a dozen research projects, hundreds of users</p>
@@ -970,7 +986,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-19" class="slide level2" data-background-image="img/ests.png" data-background-size="800px">
+<section id="section-20" class="slide level2" data-background-image="img/ests.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>It is serving as a digital archiving platform the Engaging Science and Technology Studies journal. In designing its architecture, we’ve really tried to take advantage of and at times design against digital affordances to make experimental ethnography possible</p>
@@ -986,7 +1002,7 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="section-20" class="slide level2" data-background-image="img/tech-specs.png" data-background-size="800px">
+<section id="section-21" class="slide level2" data-background-image="img/tech-specs.png" data-background-size="800px">
 <h2></h2>
 <aside class="notes">
 <p>While I’ve spent most of this talk describing the theory motivating PECE, my actual day-to-day work with PECE tends to involve a lot more conversations with software developers: “These are the fields that must be attached to every artifact. Critical commentary is a required field. These are the links that must appear on the Homepage. This is how users should link to an annotation. Users should be able to organize content into these three columns. Site administrators should be able to to do/see this, but not that.” Every design directive I communicate to developers is grounded in certain commitments; many of which the design team has debated considerably.</p>

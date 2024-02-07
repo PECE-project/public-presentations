@@ -226,6 +226,15 @@ Drawing from Marilyn Strathern - one of our design logics is “valuing noise”
 Addressing this meant designing creative ways into the database. From day one, I have been averse to organizing artifacts into folders. Organizing data into folders would involve coming up with a way to categorize the data, which could overdetermine how ethnographers would assign meaning to data across the platform. It could fall prey to the homogenization that the theorists we rely on warn of.
 :::
 
+##  {background-image="img/tags.png" background-size="800px"}
+
+
+::: {.notes}
+
+Instead we prioritized tagging as a system for content discovery and organization. Any data uploaded to the platform can be assigned a series of tags. We don’t control these tags, though we do suggest that PECE communities develop some social protocols around tagging. Content will appear in many places on the platform if it has been associated with many tags - it’s not delimited to one category or one folder. Navigate to a “tag page” and you may find your own content or you may find content you didn’t expect to find there. It’s a way to stumble on content you didn’t know may be related to your own. 
+
+:::
+
 ##  {background-image="img/analytics.png" background-size="800px"}
 
 ::: notes
@@ -357,7 +366,7 @@ In Anthropology as Cultural Critique, one of the books that heralded the linguis
 
 - [Timeline Essays](https://disaster-sts-network.org/content/chasing-environmental-injustice-santa-ana-california-tactical-history-2020)
 - [Photo Essays](https://disaster-sts-network.org/content/photo-essay-courtroom-sketches-yunlin-tainan-county-%E6%B3%95%E5%BA%AD%E8%A7%80%E5%AF%9F%E9%9B%B2%E6%9E%97%E3%80%81%E5%8F%B0%E5%8D%97%E6%B3%95%E9%99%A2)
-- [PECE Essays](https://disaster-sts-network.org/content/chasing-environmental-injustice-santa-ana-california-tactical-history-2020)
+- [PECE Essays](https://disaster-sts-network.org/content/sugar-plantations-chemical-plants-covid-19)
 
 :::{.notes}
 
@@ -375,7 +384,7 @@ Now because we don’t want the system to overdetermine what kind of play can ha
 Now experimentalism is an ongoing tension for us. Because the uncertainty and incompleteness that facilitates play also can make it difficult to find content in the system and to figure out intended uses of the system. PECE is no longer only used by research communities and it no longer only used by communities that share our theoretical commitments. PECE does not embody recognized best practices when it comes to user experience. It does not script for you how to engage with it. It does not lead you down standardized pathways to find what you are looking for. Some would argue that this inhibits PECE’s accessibility to diverse audiences, and I’m not in disagreement with those arguments. I remain committed to the experiment, but can acknowledge that after a decade of working on PECE architecture (as it has migrated it into more and more diverse communities), I wince a little every time I hear someone recommend to me ways to make the system easier to engage with. …typically their suggestions involve bringing more structure into a system that we’ve intentionally structured for play. For example, we revisit the debate over categorizing content into folders every couple of years. I find myself increasingly wanting to standardize certain fields that users fill out when uploading data so that we can build out more robust search systems and APIs for integrating data across the platforms. 
 :::
 
-##  {background-image="img/mobile.png" background-size="500px"}
+## {background-image="img/mobile.jpg" background-size="500px"}
 
 
 ::: {.notes}
