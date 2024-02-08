@@ -5,11 +5,9 @@ author: "Lindsay Poirier"
 date: "Last updated on `r Sys.Date()`"
 ---
 
-## Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE
+## 2024 (Feb 7) Goethe University Frankfurt, Germany
 
-### Goethe University Frankfurt, Germany
-
-#### February 7, 2024
+### Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE
 
 In this talk, I will narrate the tensions of designing the Platform for Experimental Collaborative Ethnography (PECE) - a software distribution for supporting multi-sited and multi-perspectival ethnographic research. In particular, I will discuss the architectural challenges to designing data storage systems, interfaces, and workflows that foster collaborative analysis while leaving ethnographic data open to productive reinterpretation.  
 
