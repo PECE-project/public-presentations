@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "PECE Talks",
+    "objectID": "workshops/frankfurt2024.html",
+    "href": "workshops/frankfurt2024.html",
+    "title": "PECE Workshop - Goethe University",
     "section": "",
-    "text": "In this talk, I will narrate the tensions of designing the Platform for Experimental Collaborative Ethnography (PECE) - a software distribution for supporting multi-sited and multi-perspectival ethnographic research. In particular, I will discuss the architectural challenges to designing data storage systems, interfaces, and workflows that foster collaborative analysis while leaving ethnographic data open to productive reinterpretation.\nLink to slides"
+    "text": "10:00-10:10 - Overview and Logistics\n\nIf you didn’t already have an account, an account was created for you on worldpece.org.\n\nYour username is the text before your institutional email. I will state your password in the workshop.\nPlease try to log in, and be prepared to call me over if you can’t.\n\nWe are going to try to self-organize into groups that plan to, are currently, or recently have worked together on a “project.”\n\n10:10-10:30 - Imagining an Archive\n\nIdentify a digital object that represents your “project” to upload as an artifact. If you have a logo, you might upload it as an image artifact; if you have a project description, you might upload it as a text artifact; if you have a website, you might upload it as a Website artifact.\nOne person in the group should share their screen with others as they talk through how to create this artifact.\nTitle the artifact\nLeave blank the following field: Cite as part of…\nUnder Contributors, add all of the user names of the individuals in your group.\nUnder Critical Commentary, provide a brief description of the project.\nUnder Source, list where this artifact came from.\nUnder Creators, list any individuals that helped to create the specific data file. For instance, if you uploaded a logo, you might list the person that designed it. Otherwise, leave it blank.\nLeave blank the following field: Created Date\nSelect the Language from the dropdown field.\nLeave blank the following field: Fieldsite\nLeave blank the following field: Bibliography\nLeave the default setting under License\nSet the Permissions to Open\nUnder Group Audience, select PECE Workshop Sandbox and leave the default group settings\nAdd 3 Tags. Tags should be single words or short phrases.\n\nOne tag should describe what your project is (e.g. research project, speaker series, academic program)\nOne tag should describe what your project examines empirically (e.g. open data, climate change)\nOne tag should describe what kinds of methods your project engages (e.g. ethnography)\n\n\nClick Save!\n10:30-10:45 - Introductions via PECE Artifacts\n10:45-11:15 - Collaborative Planning and Hermeneutics\nWe are going to work with this question set to conceptualize what an archive of this project could look like. Specifically, you should consider the following three questions:\n\nWhat is the platform designed to recollect and preserve?\nWhat is this archive|platform designed to push against? Are there, for example, exclusions and inequalities in its problem space that the archive|platform could begin to reorder?\nWhat collections will be in this archive?\n\nIn the first 10 minutes, everyone should independently respond to at least one of these questions by annotating the artifact they created earlier.\nIn the second 20 minutes, groups will share what they’ve recorded and open for broader discussion about these questions.\n11:15-11:30 Report-outs and Demonstration of PECE Annotation Interfaces\n11:30-12:00 Overview of PECE Planning Tools\n\nPECE Set-Up\nConceptualization Exercises (See all question sets starting with “Archive Ethnography”)\nExample Style Guide\nTagging Protocols Example\nPermission to Publish\nDocuments that should be discussed/developed\n\nTerms of Service Policy/Privacy Policy\nDeed of Gift/Documentation Release form\nData Management Plan\nDecommissioning doc\nCode of Conduct\nCopyright Policy"
   },
   {
-    "objectID": "talks/frankfurt2024.html",
-    "href": "talks/frankfurt2024.html",
-    "title": "Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE",
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "PECE Workshops",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#bullets",
-    "href": "talks/frankfurt2024.html#bullets",
-    "title": "Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#code",
-    "href": "talks/frankfurt2024.html#code",
-    "title": "Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#slide-1",
-    "href": "talks/frankfurt2024.html#slide-1",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Slide 1",
-    "text": "Slide 1"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#slide-2",
-    "href": "talks/frankfurt2024.html#slide-2",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Slide 2",
-    "text": "Slide 2\n\neBird for fun\nwhat does it mean for it to be “meaningful”"
+    "text": "Link to workshop materials"
   },
   {
     "objectID": "talks/frankfurt2024.html#an-experiment-in-collaborative-hermeneutics",
@@ -54,104 +26,6 @@
     "title": "Infrastructuring Collaborative Hermeneutics",
     "section": "Agenda",
     "text": "Agenda\n\nHistory/background on PECE\nInformation Architecture\nInverting PECE\n\nEthnography\nCollaborative\nExperimental\nPlatform\n\n\n\nIn this talk, my goal is to show the challenges - the tensions of designing information architecture for this kind of open-ended hermeneutic analysis. I will start by providing some history/background on PECE. Then I will go on to provide a “backstage” look at the commitments that we brought to the design of PECE, analyzing how they shaped our approach to the system’s design. I will specifically try to highlight the tensions - the moments where there were incongruencies between our commitments and the existing digital systems available to us. …also moments where there were incongruencies between our commitments - when it was difficult for us to meet conflicting demands. …and while this will highlight lingering challenges that we are constantly grappling with when it comes to designing PECE, I will close with stories that demonstrate what keeps us going. …stories of the PECE use cases that inspire us and that demonstrate what a commitment to experimentalism can look like."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#design-team",
-    "href": "talks/frankfurt2024.html#design-team",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Design Team",
-    "text": "Design Team"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#pathways-to-pece",
-    "href": "talks/frankfurt2024.html#pathways-to-pece",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Pathways to PECE",
-    "text": "Pathways to PECE"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#infrastructurally-inverting-pece",
-    "href": "talks/frankfurt2024.html#infrastructurally-inverting-pece",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Infrastructurally Inverting PECE",
-    "text": "Infrastructurally Inverting PECE\n\nE- Ethnography\nC- Collaborative\nE- Experimental\nP- Platform\n\n\nBringing this kind of perspective to the PECE design team, my role was eventually labeled Lead Platform Architect. I was responsible for thinking out what kinds of engagements would be enabled by certain configurations for the site’s data model, user interfaces, search features, and menus. I was also responsible for translating the theoretical and methodological commitments of experimental ethnography into the site’s architecture. I’m going to narrate some of those decisions by walking through what PECE has emerged into. …and, drawing inspiration from Geoffrey Bowker, I’m going to do so by infrastructurally inverting the acronym - starting with the E - ethnography, and moving backwards from there to the P - platform. I’m doing this deliberately. …because in almost all of our theorizing about PECE, we have actively avoided starting with the digital. We want to start from our commitments, and consider how the digital can help to realize those commitments. When Bowker talks about infrastructural inversion, he is referencing efforts to draw out the invisible work of infrastructural design - the backstage processes. I’m going to try and make some of that work visible here- highlighting the tensions that come along with designing architecture in this way."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#devious-design",
-    "href": "talks/frankfurt2024.html#devious-design",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Devious Design",
-    "text": "Devious Design"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#inverting-pece-e--ethnography",
-    "href": "talks/frankfurt2024.html#inverting-pece-e--ethnography",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Inverting PECE: E- Ethnography",
-    "text": "Inverting PECE: E- Ethnography\nWriting Culture traditions Hayden White"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#inverting-pece-c--collaborative",
-    "href": "talks/frankfurt2024.html#inverting-pece-c--collaborative",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Inverting PECE: C- Collaborative",
-    "text": "Inverting PECE: C- Collaborative\ntraditions of working in isolation open source commitments data ideologies of anthropology"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#inverting-pece-e--experimental",
-    "href": "talks/frankfurt2024.html#inverting-pece-e--experimental",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Inverting PECE: E- Experimental",
-    "text": "Inverting PECE: E- Experimental\nRheinberger design logics double bind"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#inverting-pece-p--platform",
-    "href": "talks/frankfurt2024.html#inverting-pece-p--platform",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Inverting PECE: P- Platform",
-    "text": "Inverting PECE: P- Platform\ndigital infrastrucutre software distribution"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#architect",
-    "href": "talks/frankfurt2024.html#architect",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Architect",
-    "text": "Architect"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#creative-grappling",
-    "href": "talks/frankfurt2024.html#creative-grappling",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Creative Grappling",
-    "text": "Creative Grappling"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#moments-of-paralysis",
-    "href": "talks/frankfurt2024.html#moments-of-paralysis",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Moments of Paralysis",
-    "text": "Moments of Paralysis"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#staying-with-the-trouble",
-    "href": "talks/frankfurt2024.html#staying-with-the-trouble",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Staying with the Trouble",
-    "text": "Staying with the Trouble"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.",
-    "href": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all.",
-    "text": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.-berners-lee-1999",
-    "href": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.-berners-lee-1999",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all. (Berners-Lee 1999)",
-    "text": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all. (Berners-Lee 1999)\n\nTalking about his time at CERN Berners-Lee writes:\nI had seen numerous developers arrive at CERN to tout systems that “helped” people organize information. They’d say, “To use this system all you have to do is divide all your documents into four categories” or “You just have to save your data as a WordWonderful document” or whatever. I saw one protagonist after the next shot down in flames by indignant researchers because the developers were forcing them to reorganize their work to fit the system. I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all."
   },
   {
     "objectID": "talks/frankfurt2024.html#section",
@@ -231,6 +105,13 @@
     "text": "WWW as Information Architecture\n\n\nImage from Robert Cailliau\n\n\nPrior to joining the PECE team, I was finishing an undergraduate degree in an emerging field known as Web Science. The field was aiming to theorize how the World Wide Web became the kind of digital infrastructure that it did - how a series of protocols emerged into a complex social phenomenon. A good chunk of research in that area has thought about the social consequences of the Web’s information architecture. By information architecture, I’m referring to the kind of blueprint for how people can move through digital systems - the design decisions that govern what people can access and how they get there. The WWW is a system designed via very lightweight infrastructure architecture. There is no central computer, no central organizing body dictating how pages end up on the Web or indexing content into the Web. Instead everyone - dispersed around the globe - agrees to use a standard set of protocols (HTML, etc), and then they hyperlink their content into the Web themselves. This approach was distinct from other attempts to organize content on the Internet; other approaches, like Gopher, relied on system administrators to approve content; create menus, etc. Tim Berners-Lee designed the system this way very deliberately in the late 1980s and early 1990s."
   },
   {
+    "objectID": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.-berners-lee-1999",
+    "href": "talks/frankfurt2024.html#i-would-have-to-create-a-system-with-common-rules-that-would-be-acceptable-to-everyone.-this-meant-as-close-as-possible-to-no-rules-at-all.-berners-lee-1999",
+    "title": "Infrastructuring Collaborative Hermeneutics",
+    "section": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all. (Berners-Lee 1999)",
+    "text": "I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all. (Berners-Lee 1999)\n\nTalking about his time at CERN Berners-Lee writes:\nI had seen numerous developers arrive at CERN to tout systems that “helped” people organize information. They’d say, “To use this system all you have to do is divide all your documents into four categories” or “You just have to save your data as a WordWonderful document” or whatever. I saw one protagonist after the next shot down in flames by indignant researchers because the developers were forcing them to reorganize their work to fit the system. I would have to create a system with common rules that would be acceptable to everyone. This meant as close as possible to no rules at all."
+  },
+  {
     "objectID": "talks/frankfurt2024.html#section-8",
     "href": "talks/frankfurt2024.html#section-8",
     "title": "Infrastructuring Collaborative Hermeneutics",
@@ -238,25 +119,18 @@
     "text": "Of course this system ended up quite messy. Anyone who has navigated to a web page and received a 404 error knows that without central systems to organize content on the web, you can end up with dead links and broken pages. …but everyone that I have talked to in the Web community argues that this critical decision is why the Web “won out” over other projects. 404 is annoying but doesn’t prevent you from being able to surf the Web. …and without having to go through all of these stop-gates, without having to assign a person or institution to control how information appears on the Web, in theory anyone can participate and can participate immediately. The decision to allow for dead ends in the Web’s information architecture is seen as critical for enabling this kind of work. (…and as an aside that speaks to the double binds I will eventually come to, this decision to keep things as open, light, and rule-free as possible also allows for misappropriation - for big companies like Google to sweep in and recentralize what was intended to be an essentially decentralized infrastructure)."
   },
   {
+    "objectID": "talks/frankfurt2024.html#infrastructurally-inverting-pece",
+    "href": "talks/frankfurt2024.html#infrastructurally-inverting-pece",
+    "title": "Infrastructuring Collaborative Hermeneutics",
+    "section": "Infrastructurally Inverting PECE",
+    "text": "Infrastructurally Inverting PECE\n\nE- Ethnography\nC- Collaborative\nE- Experimental\nP- Platform\n\n\nBringing this kind of perspective to the PECE design team, my role was eventually labeled Lead Platform Architect. I was responsible for thinking out what kinds of engagements would be enabled by certain configurations for the site’s data model, user interfaces, search features, and menus. I was also responsible for translating the theoretical and methodological commitments of experimental ethnography into the site’s architecture. I’m going to narrate some of those decisions by walking through what PECE has emerged into. …and, drawing inspiration from Geoffrey Bowker, I’m going to do so by infrastructurally inverting the acronym - starting with the E - ethnography, and moving backwards from there to the P - platform. I’m doing this deliberately. …because in almost all of our theorizing about PECE, we have actively avoided starting with the digital. We want to start from our commitments, and consider how the digital can help to realize those commitments. When Bowker talks about infrastructural inversion, he is referencing efforts to draw out the invisible work of infrastructural design - the backstage processes. I’m going to try and make some of that work visible here- highlighting the tensions that come along with designing architecture in this way."
+  },
+  {
     "objectID": "talks/frankfurt2024.html#seminal-texts",
     "href": "talks/frankfurt2024.html#seminal-texts",
     "title": "Infrastructuring Collaborative Hermeneutics",
     "section": "Seminal Texts",
     "text": "Seminal Texts\n\n\n\n\n\n\n\n\nSo we (the PECE design team) work in a tradition of ethnography inspired by post-strucutralist and post-colonial writing emerging in the 1970s. Work that called attention to the language ideologies, structures, and tropes of seminal anthropological texts and considered how power emerged when certain communities were spoken for in ethnographic writing. Some of the most important texts inspiring our theoretical work are Clifford and Marcus Writing Culture and Marcus and Fischer’s Anthropology as Cultural Critique. These texts called on anthropologists to rethink the authority of the anthropologist’s voice, to critique tendencies to document culture in static or fixed ways, and to challenge common ways of categorizing people, sites, and theories. Sometimes referred to as the reflexive or the linguistic turn in anthropology, these writers inspired ethnographers to experiment with new ways of doing research and new ways of “writing culture.” We very much so aimed to be a part of this experiment, thinking about how we could design digital architecture to not present ethnographic data as static and fixed - even though every piece of data that enters a database gets a unique id in that database and a timestamp for when it was entered. …thinking about how we could design digital architecture to trouble categorizations that tended to homogenize the groupings they represented - even though most digital systems rely on some degree of categorization in order to present information to the public."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#background-imageimgdesign-logics.png-background-size-500px",
-    "href": "talks/frankfurt2024.html#background-imageimgdesign-logics.png-background-size-500px",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "{background-image=“img/design-logics.png” background-size = “500px”}",
-    "text": "{background-image=“img/design-logics.png” background-size = “500px”}\n\nIt was in this spirit that we elected to formalize our theoretical commitments into a series of “design logics” - statements that we would display on every instance of the platform outlining what we aimed for the site’s architecture to embody. In outlining each of our design logics, we have drawn from writing of anthropologists that inspire us."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#background-imageimgrepo.png-background-size-500px",
-    "href": "talks/frankfurt2024.html#background-imageimgrepo.png-background-size-500px",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "{background-image=“img/repo.png” background-size = “500px”}",
-    "text": "{background-image=“img/repo.png” background-size = “500px”}\n\nDrawing from Marilyn Strathern - one of our design logics is “valuing noise” - or encouraging the collection and storage of more data than we know what to do with, more data than we could imagine becoming theoretically relevant, in recognition that the “signal” may only come at a later time - at a later stage in the analytic process. Navigate to any one instance of PECE now, and you may find the “archive” a bit dizzying. There are pages upon pages of “artifacts” - or uploaded ethnographic data points (images, interviews, videos, articles, etc), and not all of it has yet been layered into interpretive analyses. It’s not immediately clear why all of this information is relevant to the platform. Making this kind of noisy data dump infrastructurally possible was the easy part. Let users upload any kind of artifact and drop it all into one repository page. The hard part was figuring out how to facilitate without determining processes for generating signal from that data. Noisy spaces can make it difficult to find what you’re looking for - or even to find what you don’t know that you are looking for. How am I supposed to generate signal across more than 500 pages of artifacts? How can I create opportunities to stumble across artifacts that can further my ethnographic theorizing without pre-coding into the system where that data should go or what makes it meaningful?\nAddressing this meant designing creative ways into the database. From day one, I have been averse to organizing artifacts into folders. Organizing data into folders would involve coming up with a way to categorize the data, which could overdetermine how ethnographers would assign meaning to data across the platform. It could fall prey to the homogenization that the theorists we rely on warn of."
   },
   {
     "objectID": "talks/frankfurt2024.html#section-9",
@@ -273,13 +147,6 @@
     "text": "Drawing from Marilyn Strathern - one of our design logics is “valuing noise” - or encouraging the collection and storage of more data than we know what to do with, more data than we could imagine becoming theoretically relevant, in recognition that the “signal” may only come at a later time - at a later stage in the analytic process. Navigate to any one instance of PECE now, and you may find the “archive” a bit dizzying. There are pages upon pages of “artifacts” - or uploaded ethnographic data points (images, interviews, videos, articles, etc), and not all of it has yet been layered into interpretive analyses. It’s not immediately clear why all of this information is relevant to the platform. Making this kind of noisy data dump infrastructurally possible was the easy part. Let users upload any kind of artifact and drop it all into one repository page. The hard part was figuring out how to facilitate without determining processes for generating signal from that data. Noisy spaces can make it difficult to find what you’re looking for - or even to find what you don’t know that you are looking for. How am I supposed to generate signal across more than 500 pages of artifacts? How can I create opportunities to stumble across artifacts that can further my ethnographic theorizing without pre-coding into the system where that data should go or what makes it meaningful?\nAddressing this meant designing creative ways into the database. From day one, I have been averse to organizing artifacts into folders. Organizing data into folders would involve coming up with a way to categorize the data, which could overdetermine how ethnographers would assign meaning to data across the platform. It could fall prey to the homogenization that the theorists we rely on warn of."
   },
   {
-    "objectID": "talks/frankfurt2024.html#hauntology",
-    "href": "talks/frankfurt2024.html#hauntology",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Hauntology",
-    "text": "Hauntology\n\nFormal ontologies?\nSemantic Standards?\nAPIs?\n\n\nMy personal favorite design logic is inspired by Jacques Derrida; we borrow Derrida’s term “hauntology” to refer to the idea that ontologies are only ever temporarily stable; they can never be fully closed; and there is always some degree of otherness - of what they can’t account for - haunting the system. The question for us became how do we design information ontologies - data models, vocabularies, etc for representing ethnographic data that remain open the absences that are always already haunting the system. Because of this design logic, we’ve always maintained a degree of skepticism when computer scientists show up to our meetings and tell us the “right” way to design our system - that we need to formalize some ontology for representing our database models to ensure that all users are uploading information in the exact same way. We find certain degrees of semantic instability not only acceptable in PECE, but encouraged. Creative or devious uses of our infrastructural affordances keep the experiment alive. Yet, this also has created challenges to imagining how data can be moved across platforms. We would love to be able to move data archived in PECE into more long-term, stabilized archival systems hosted by university libraries (such as the Harvard Dataverse). …but in order to map the data we have in our system into a system like the Dataverse, our data model needs to be rather stabilized. We need the kind of stable “ontology” computer scientists are so keen on pushing on us. We’ve tried to figure out ways to build just enough structure into the system to make these mappings possible while leaving the semantics open to certain degrees of haunting."
-  },
-  {
     "objectID": "talks/frankfurt2024.html#section-11",
     "href": "talks/frankfurt2024.html#section-11",
     "title": "Infrastructuring Collaborative Hermeneutics",
@@ -294,13 +161,6 @@
     "text": "On to another design logic- Drawing on the work of Evelyn Fox Keller, another one of our design logics prioritizes “exploratory pluralism” - rather than aiming to coverage on one interpretation of empirical ethnographic data, we seek to design a system that encourages multiple, differentially-situated interpretations, creating kaleidoscopic views of ethnographic sites rather than singular or singularly consistent ones. The structure of PECE’s annotation system was designed to realize this design logic. All artifacts in the system can be annotated. This is different than the kind of annotation that systems like MaxQDA, Atlas.ti, or NVivo facilitate. Our annotation system does not involve breaking apart a text and coding it to facilitate interpretation. Instead, users upload sets of shared ethnographic questions. Here is one example of a question set. … Any artifact on the platform can be annotated with any question set. You don’t have to answer all of the questions, and at any point you can add a question."
   },
   {
-    "objectID": "talks/frankfurt2024.html#data-ideologies-of-cultural-anthropology",
-    "href": "talks/frankfurt2024.html#data-ideologies-of-cultural-anthropology",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Data Ideologies of Cultural Anthropology",
-    "text": "Data Ideologies of Cultural Anthropology\n\n\n\nInstitutionally-incentivized individualism\nEthico-political sensibilities\nInterpretive exceptionalism\n\n\n\n\n\n\nFor a long time ethnographers have tended to work in isolation. Dominant data cultures in anthropology do not prioritize the sharing of ethnographic data, and many publications in anthropology are solo-authored. Part of our work in imagining the design of the platform came from our own ethnographic analysis of the ideologies moving anthropological communities as we engaged in advocacy around data sharing. Of course, in certain ways, the ideologies that de-prioritize data sharing in anthropology are institutionally-incentivized - with credit and career advancement historically discouraging collaborative work. Hopefully this is changing. Perhaps most commonly, our colleagues expressed concerns over making data representing vulnerable populations available to the public (a concern that we certainly share, but do not believe serves as an appropriate rationale for never sharing any ethnographic data). Many colleagues also raised concerns about extracting data from the contexts of their production. We heard researchers claim that they would never be willing to share their field notes because those notes were generated through a particular analytic lens honed through years of extended fieldwork and attunement to the nuances of their site’s cultural life. The fear here was that publishing ethnographic data could enable irresponsible interpretations unconditioned by cultural immersion, or worse that, ethnographic data extracted from a field could be misappropriated to misrepresent a vulnerable community. Again, this is a concern we are sympathetic to and share, yet do not believe should inhibit all data sharing in anthropological contexts."
-  },
-  {
     "objectID": "talks/frankfurt2024.html#section-13",
     "href": "talks/frankfurt2024.html#section-13",
     "title": "Infrastructuring Collaborative Hermeneutics",
@@ -308,11 +168,18 @@
     "text": "…but afterwards, we provide different pathways into viewing the plurality of perspectives represented in the platform. For instance, there is a page to see all of the responses to the same question for the same artifact, providing opportunities to visualize the kaleidoscope of viewpoints that emerge around a single data point. We refer to this affordance as collaborative hermeneutics, and for me, this is one of the most important innovations of the system. (I’ll note that this is also the user interface that is my highest priority for redesigning right now; I think there are exciting opportunities for visualizing the responses to questions in more kaleidoscopic ways than lists on web page).\nThere are several other design logics that motivate the design of PECE. Inspired by Gregory Bateson, another design logic is about “crossing scales and working double binds” - an explicit effort to highlight where contradictions and paradoxes emerge in the ethnographic research (not to resolve them, but instead to investigate what creates and sustains these disjunctions and how communities creatively grapple with them)."
   },
   {
-    "objectID": "talks/frankfurt2024.html#section-14",
-    "href": "talks/frankfurt2024.html#section-14",
+    "objectID": "talks/frankfurt2024.html#hauntology",
+    "href": "talks/frankfurt2024.html#hauntology",
     "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "",
-    "text": "Designing information architecture attentive to these concerns meant that we needed to design very nuanced forms of access control into the database model; we had to design a permission system that allowed for very fine-grained levels of access restrictions for every piece of content created on the platform. Perhaps only the ethnographer that created the artifact would have access to view the data; perhaps all and only the researchers that are funded under the same grant have view access. Designing the architecture also meant figuring out how to “contextualize” published data; how to provide opportunities for ethnographers to characterize where the data came from - the interpretive lens that rendered it into a piece of data - without suggesting that there was only one right way to interpret the data."
+    "section": "Hauntology",
+    "text": "Hauntology\n\nFormal ontologies?\nSemantic Standards?\nAPIs?\n\n\nMy personal favorite design logic is inspired by Jacques Derrida; we borrow Derrida’s term “hauntology” to refer to the idea that ontologies are only ever temporarily stable; they can never be fully closed; and there is always some degree of otherness - of what they can’t account for - haunting the system. The question for us became how do we design information ontologies - data models, vocabularies, etc for representing ethnographic data that remain open the absences that are always already haunting the system. Because of this design logic, we’ve always maintained a degree of skepticism when computer scientists show up to our meetings and tell us the “right” way to design our system - that we need to formalize some ontology for representing our database models to ensure that all users are uploading information in the exact same way. We find certain degrees of semantic instability not only acceptable in PECE, but encouraged. Creative or devious uses of our infrastructural affordances keep the experiment alive. Yet, this also has created challenges to imagining how data can be moved across platforms. We would love to be able to move data archived in PECE into more long-term, stabilized archival systems hosted by university libraries (such as the Harvard Dataverse). …but in order to map the data we have in our system into a system like the Dataverse, our data model needs to be rather stabilized. We need the kind of stable “ontology” computer scientists are so keen on pushing on us. We’ve tried to figure out ways to build just enough structure into the system to make these mappings possible while leaving the semantics open to certain degrees of haunting."
+  },
+  {
+    "objectID": "talks/frankfurt2024.html#data-ideologies-of-cultural-anthropology",
+    "href": "talks/frankfurt2024.html#data-ideologies-of-cultural-anthropology",
+    "title": "Infrastructuring Collaborative Hermeneutics",
+    "section": "Data Ideologies of Cultural Anthropology",
+    "text": "Data Ideologies of Cultural Anthropology\n\n\n\nInstitutionally-incentivized individualism\nEthico-political sensibilities\nInterpretive exceptionalism\n\n\n\n\n\n\nFor a long time ethnographers have tended to work in isolation. Dominant data cultures in anthropology do not prioritize the sharing of ethnographic data, and many publications in anthropology are solo-authored. Part of our work in imagining the design of the platform came from our own ethnographic analysis of the ideologies moving anthropological communities as we engaged in advocacy around data sharing. Of course, in certain ways, the ideologies that de-prioritize data sharing in anthropology are institutionally-incentivized - with credit and career advancement historically discouraging collaborative work. Hopefully this is changing. Perhaps most commonly, our colleagues expressed concerns over making data representing vulnerable populations available to the public (a concern that we certainly share, but do not believe serves as an appropriate rationale for never sharing any ethnographic data). Many colleagues also raised concerns about extracting data from the contexts of their production. We heard researchers claim that they would never be willing to share their field notes because those notes were generated through a particular analytic lens honed through years of extended fieldwork and attunement to the nuances of their site’s cultural life. The fear here was that publishing ethnographic data could enable irresponsible interpretations unconditioned by cultural immersion, or worse that, ethnographic data extracted from a field could be misappropriated to misrepresent a vulnerable community. Again, this is a concern we are sympathetic to and share, yet do not believe should inhibit all data sharing in anthropological contexts."
   },
   {
     "objectID": "talks/frankfurt2024.html#section-15",
@@ -322,13 +189,6 @@
     "text": "Designing information architecture attentive to these concerns meant that we needed to design very nuanced forms of access control into the database model; we had to design a permission system that allowed for very fine-grained levels of access restrictions for every piece of content created on the platform. Perhaps only the ethnographer that created the artifact would have access to view the data; perhaps all and only the researchers that are funded under the same grant have view access. Designing the architecture also meant figuring out how to “contextualize” published data; how to provide opportunities for ethnographers to characterize where the data came from - the interpretive lens that rendered it into a piece of data - without suggesting that there was only one right way to interpret the data."
   },
   {
-    "objectID": "talks/frankfurt2024.html#differing-views-on-data-context",
-    "href": "talks/frankfurt2024.html#differing-views-on-data-context",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Differing Views on Data Context",
-    "text": "Differing Views on Data Context\n\n\n\n\n\n\n\n\nIt’s notable that the emphasis on “context” was relevant to both the anthropologists we engaged with and RDA. …but different views on context were being rendered. For folks at RDA, context was an easily datafiable thing. Context was treated as something that happened in the background; actions happened within a particular context, clearly demarcating context from human activity. Paul Dourish refers to this as a representationalist view of context, which is embedded in positivist epistemologies. Automatically-generated, standardized metadata is understood to provide the context needed to make reproducibility possible.\nAnthropologists were advancing a different understanding of context; one that treats context as unquantifiable, locally emergent - irreducible to a single site. Dourish refers to this as a more interactionist view of context, rooted in phenomenological epistemologies. …and of course, the rationale for documenting context was directed towards different ends. In trying to figure out how to bring context to our published data, we were not so much aiming to enable reproduction of ethnographic studies - to make it possible to verify the results of ethnographic analysis - but instead to provide enough grounding - enough integrity to the conditions of data production - to make responsible reinterpretation possible. We wanted to make it possible for new perspectives to “thicken” the description of ethnographic data - to allow us to view it in new ways, another turn of the kaleidoscope - without completing divorcing that data from the contexts of its production."
-  },
-  {
     "objectID": "talks/frankfurt2024.html#section-16",
     "href": "talks/frankfurt2024.html#section-16",
     "title": "Infrastructuring Collaborative Hermeneutics",
@@ -336,11 +196,25 @@
     "text": "On all of these accounts we were inspired by work at the Research Data Alliance - a community of researchers attempting to design infrastructures and protocols to reduce the social and technical barriers to interdisciplinary and international data sharing. We became involved with this organization in its early days, representing the data infrastructure needs of the “empirical humanities” in the process. Now quickly we learned that our epistemological commitments differed considerably from many representatives at RDA. At RDA there was a real focus on making scientific “reproducibility” possible through infrastructure that fully documented data provenance. The aim was to design infrastructure that would make it possible to converge on the truth of scientific data by documenting the context of data production so well that others could repeat experiments and verify the results."
   },
   {
+    "objectID": "talks/frankfurt2024.html#differing-views-on-data-context",
+    "href": "talks/frankfurt2024.html#differing-views-on-data-context",
+    "title": "Infrastructuring Collaborative Hermeneutics",
+    "section": "Differing Views on Data Context",
+    "text": "Differing Views on Data Context\n\n\n\n\n\n\n\n\nIt’s notable that the emphasis on “context” was relevant to both the anthropologists we engaged with and RDA. …but different views on context were being rendered. For folks at RDA, context was an easily datafiable thing. Context was treated as something that happened in the background; actions happened within a particular context, clearly demarcating context from human activity. Paul Dourish refers to this as a representationalist view of context, which is embedded in positivist epistemologies. Automatically-generated, standardized metadata is understood to provide the context needed to make reproducibility possible.\nAnthropologists were advancing a different understanding of context; one that treats context as unquantifiable, locally emergent - irreducible to a single site. Dourish refers to this as a more interactionist view of context, rooted in phenomenological epistemologies. …and of course, the rationale for documenting context was directed towards different ends. In trying to figure out how to bring context to our published data, we were not so much aiming to enable reproduction of ethnographic studies - to make it possible to verify the results of ethnographic analysis - but instead to provide enough grounding - enough integrity to the conditions of data production - to make responsible reinterpretation possible. We wanted to make it possible for new perspectives to “thicken” the description of ethnographic data - to allow us to view it in new ways, another turn of the kaleidoscope - without completing divorcing that data from the contexts of its production."
+  },
+  {
     "objectID": "talks/frankfurt2024.html#section-17",
     "href": "talks/frankfurt2024.html#section-17",
     "title": "Infrastructuring Collaborative Hermeneutics",
     "section": "",
     "text": "Architecturally this meant figuring out how to encode “context” without relying on certain standardized, stabilized metadata models. How do we design systems that recognize contextualization as a categorizing moment? - not predetermining what counts as context, not treating context as something that can ever be fully saturated. Letting researchers decide what counts as relevant context to them. We ended up adopting “light” versions of certain metadata standards in our system. For instance, when uploading data to the platform, users are asked to fill out a series of fields that map onto the fields proposed in the Dublin Core metadata model. This is considered one of the “lightest” metadata models and was designed deliberately so in order to be relevant to as many diverse communities as possible. Researchers are asked to document information about the data’s source: when it was created, by whom, in which fieldsite, etc. There is also a field where researchers are asked to leave “critical commentary” about the artifact, offering narrative interpretation of the artifact’s significance. This critical commentary moves with the artifact in every place it could potentially appear on the platform. You can’t link to an artifact without its critical commentary. Critical commentary is a required field. While some users find it time-consuming and annoying to have to fill this out for every piece of data we add to the system, we find it critical for enabling the kind of responsible collaboration we hope the system can facilitate."
+  },
+  {
+    "objectID": "talks/frankfurt2024.html#experimental-publishing",
+    "href": "talks/frankfurt2024.html#experimental-publishing",
+    "title": "Infrastructuring Collaborative Hermeneutics",
+    "section": "Experimental Publishing",
+    "text": "Experimental Publishing\n\nTimeline Essays\nPhoto Essays\nPECE Essays\n\n\nWe’ve attempted to design PECE into a space that embodies an experimentalist spirit - to design it into a space where researchers can engage in play. For instance, one way to pull together data and analyses in PECE is through the design of a series of publications. We designed these publications to be “collage-like.” You can pull from content all over the system and drag and drop that content in creative ways to tell some kind of larger ethnographic story. You can organize them temporally to tell a historical story.\nYou can organize images into a slideshow with commentary - to walk users through imagery of an ethnographic space.\nYou can organize images into a slideshow - to walk users through imagery of an ethnographic space. …or through what we call “PECE Essays” you can organize any content on the site into a three column layout, surrounded by interpretive text, links to other essays, etc.\nI’ll note that when I first saw what some people had done with PECE essays, I was shocked. “I didn’t know the platform could do that.”\nNow because we don’t want the system to overdetermine what kind of play can happen, there is inevitably a certain degree of uncertainty and incompleteness designed into our information architectures. The system does not generate these beautiful interfaces for you; it provides the means to archive your data, annotate data, and collage the data, but it doesn’t govern exactly how those processes will go. We have found that people need to be committed to the experiment to really bring content on the system to life. Otherwise they get frustrated and leave. …and part of committing to that experiment involves designing some social infrastructure around projects hosted on each platform. Some projects have developed tools to collaboratively plan what kinds of data they commit to archiving (images, fieldnotes, etc). Some projects have developed protocols for tagging content (defining some “core” terms and then devising some light rules for how to iterate tags). Some projects have developed “style guides” - a series of protocols for information that should appear in every essay, what kinds of images work well as thumbnail images, and how to link to different kinds of essays to facilitate meaningful pathways into data.\nNow experimentalism is an ongoing tension for us. Because the uncertainty and incompleteness that facilitates play also can make it difficult to find content in the system and to figure out intended uses of the system. PECE is no longer only used by research communities and it no longer only used by communities that share our theoretical commitments. PECE does not embody recognized best practices when it comes to user experience. It does not script for you how to engage with it. It does not lead you down standardized pathways to find what you are looking for. Some would argue that this inhibits PECE’s accessibility to diverse audiences, and I’m not in disagreement with those arguments. I remain committed to the experiment, but can acknowledge that after a decade of working on PECE architecture (as it has migrated it into more and more diverse communities), I wince a little every time I hear someone recommend to me ways to make the system easier to engage with. …typically their suggestions involve bringing more structure into a system that we’ve intentionally structured for play. For example, we revisit the debate over categorizing content into folders every couple of years. I find myself increasingly wanting to standardize certain fields that users fill out when uploading data so that we can build out more robust search systems and APIs for integrating data across the platforms."
   },
   {
     "objectID": "talks/frankfurt2024.html#section-18",
@@ -371,20 +245,6 @@
     "text": "While I’ve spent most of this talk describing the theory motivating PECE, my actual day-to-day work with PECE tends to involve a lot more conversations with software developers: “These are the fields that must be attached to every artifact. Critical commentary is a required field. These are the links that must appear on the Homepage. This is how users should link to an annotation. Users should be able to organize content into these three columns. Site administrators should be able to to do/see this, but not that.” Every design directive I communicate to developers is grounded in certain commitments; many of which the design team has debated considerably."
   },
   {
-    "objectID": "talks/frankfurt2024.html#section-22",
-    "href": "talks/frankfurt2024.html#section-22",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "",
-    "text": "While I’ve spent most of this talk describing the theory motivating PECE, my actual day-to-day work with PECE tends to involve a lot more conversations with software developers: “These are the fields that must be attached to every artifact. Critical commentary is a required field. These are the links that must appear on the Homepage. This is how users should link to an annotation. Users should be able to organize content into these three columns. Site administrators should be able to to do/see this, but not that.” Every design directive I communicate to developers is grounded in certain commitments; many of which the design team has debated considerably."
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#section-23",
-    "href": "talks/frankfurt2024.html#section-23",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "",
-    "text": "While I’ve spent most of this talk describing the theory motivating PECE, my actual day-to-day work with PECE tends to involve a lot more conversations with software developers: “These are the fields that must be attached to every artifact. Critical commentary is a required field. These are the links that must appear on the Homepage. This is how users should link to an annotation. Users should be able to organize content into these three columns. Site administrators should be able to to do/see this, but not that.” Every design directive I communicate to developers is grounded in certain commitments; many of which the design team has debated considerably."
-  },
-  {
     "objectID": "talks/frankfurt2024.html#conclusion",
     "href": "talks/frankfurt2024.html#conclusion",
     "title": "Infrastructuring Collaborative Hermeneutics",
@@ -392,59 +252,10 @@
     "text": "Conclusion\n\n\nThere’s a great deal of translational work that happens in the interstices between theory and digital materiality, and that translational work is active and emergent.\nIt has to be because there are so many tensions at play in the system’s design. We don’t have the architecture all figured out; we’re building it as we go; it requires creative grappling. Our users’ experience today, along with all of the data and interpretations they publish on the platform, embodies these tensions."
   },
   {
-    "objectID": "talks/frankfurt2024.html#slide-title",
-    "href": "talks/frankfurt2024.html#slide-title",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Slide Title",
-    "text": "Slide Title\n\nIt is serving as a digital archiving platform the Engaging Science and Technology Studies journal. In designing its architecture, we’ve really tried to take advantage of and at times design against digital affordances to make experimental ethnography possible"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#test",
-    "href": "talks/frankfurt2024.html#test",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Test",
-    "text": "Test"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#experimental-publishing",
-    "href": "talks/frankfurt2024.html#experimental-publishing",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Experimental Publishing",
-    "text": "Experimental Publishing\n\nTimeline Essays\nPhoto Essays\nPECE Essays\n\n\nWe’ve attempted to design PECE into a space that embodies an experimentalist spirit - to design it into a space where researchers can engage in play. For instance, one way to pull together data and analyses in PECE is through the design of a series of publications. We designed these publications to be “collage-like.” You can pull from content all over the system and drag and drop that content in creative ways to tell some kind of larger ethnographic story. You can organize them temporally to tell a historical story.\nYou can organize images into a slideshow with commentary - to walk users through imagery of an ethnographic space.\nYou can organize images into a slideshow - to walk users through imagery of an ethnographic space. …or through what we call “PECE Essays” you can organize any content on the site into a three column layout, surrounded by interpretive text, links to other essays, etc.\nI’ll note that when I first saw what some people had done with PECE essays, I was shocked. “I didn’t know the platform could do that.”\nNow because we don’t want the system to overdetermine what kind of play can happen, there is inevitably a certain degree of uncertainty and incompleteness designed into our information architectures. The system does not generate these beautiful interfaces for you; it provides the means to archive your data, annotate data, and collage the data, but it doesn’t govern exactly how those processes will go. We have found that people need to be committed to the experiment to really bring content on the system to life. Otherwise they get frustrated and leave. …and part of committing to that experiment involves designing some social infrastructure around projects hosted on each platform. Some projects have developed tools to collaboratively plan what kinds of data they commit to archiving (images, fieldnotes, etc). Some projects have developed protocols for tagging content (defining some “core” terms and then devising some light rules for how to iterate tags). Some projects have developed “style guides” - a series of protocols for information that should appear in every essay, what kinds of images work well as thumbnail images, and how to link to different kinds of essays to facilitate meaningful pathways into data.\nNow experimentalism is an ongoing tension for us. Because the uncertainty and incompleteness that facilitates play also can make it difficult to find content in the system and to figure out intended uses of the system. PECE is no longer only used by research communities and it no longer only used by communities that share our theoretical commitments. PECE does not embody recognized best practices when it comes to user experience. It does not script for you how to engage with it. It does not lead you down standardized pathways to find what you are looking for. Some would argue that this inhibits PECE’s accessibility to diverse audiences, and I’m not in disagreement with those arguments. I remain committed to the experiment, but can acknowledge that after a decade of working on PECE architecture (as it has migrated it into more and more diverse communities), I wince a little every time I hear someone recommend to me ways to make the system easier to engage with. …typically their suggestions involve bringing more structure into a system that we’ve intentionally structured for play. For example, we revisit the debate over categorizing content into folders every couple of years. I find myself increasingly wanting to standardize certain fields that users fill out when uploading data so that we can build out more robust search systems and APIs for integrating data across the platforms."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "PECE Talks",
     "section": "",
     "text": "In this talk, I will narrate the tensions of designing the Platform for Experimental Collaborative Ethnography (PECE) - a software distribution for supporting multi-sited and multi-perspectival ethnographic research. In particular, I will discuss the architectural challenges to designing data storage systems, interfaces, and workflows that foster collaborative analysis while leaving ethnographic data open to productive reinterpretation.\nLink to slides"
-  },
-  {
-    "objectID": "talks/frankfurt2024.html#results",
-    "href": "talks/frankfurt2024.html#results",
-    "title": "Infrastructuring Collaborative Hermeneutics",
-    "section": "Results",
-    "text": "Results\n\n\n\npollev\nSo in this activity, you just engaged in a form of collaborative hermeneutics that has guided the ways that we think about PECE architecture.\nIn this activity, there is a common artifact: the quote; and a common qualitative question. Yet different individuals in different disciplines may bring radically different interpretations to this question. The question was “lightly structured” - open to different renderings. It was mutable. People might bring different perceptions of what counts as a sentiment or what even counts as a discipline.\n… in asking this question I was not aiming to settle on the one right way of representing disciplinary data culture; instead I am aiming to multiply the perspectives that we may bring to the study of the question. To thicken our perceptions by opening up interpretive possibilities. I left the poll open-ended but character delimited for specific reasons - to provide some bounds for answering without locking people into a common vocabulary."
-  },
-  {
-    "objectID": "frankfurt2024.html",
-    "href": "frankfurt2024.html",
-    "title": "PECE Workshop - Goethe University",
-    "section": "",
-    "text": "10:00-10:10 - Overview and Logistics\n\nIf you didn’t already have an account, an account was created for you on worldpece.org.\n\nYour username is the text before your institutional email. I will state your password in the workshop.\nPlease try to log in, and be prepared to call me over if you can’t.\n\nWe are going to try to self-organize into groups that plan to, are currently, or recently have worked together on a “project.”\n\n10:10-10:30 - Imagining an Archive\n\nIdentify a digital object that represents your “project” to upload as an artifact. If you have a logo, you might upload it as an image artifact; if you have a project description, you might upload it as a text artifact; if you have a website, you might upload it as a Website artifact.\nOne person in the group should share their screen with others as they talk through how to create this artifact.\nTitle the artifact\nLeave blank the following field: Cite as part of…\nUnder Contributors, add all of the user names of the individuals in your group.\nUnder Critical Commentary, provide a brief description of the project.\nUnder Source, list where this artifact came from.\nUnder Creators, list any individuals that helped to create the specific data file. For instance, if you uploaded a logo, you might list the person that designed it. Otherwise, leave it blank.\nLeave blank the following field: Created Date\nSelect the Language from the dropdown field.\nLeave blank the following field: Fieldsite\nLeave blank the following field: Bibliography\nLeave the default setting under License\nSet the Permissions to Open\nUnder Group Audience, select PECE Workshop Sandbox and leave the default group settings\nAdd 3 Tags. Tags should be single words or short phrases.\n\nOne tag should describe what your project is (e.g. research project, speaker series, academic program)\nOne tag should describe what your project examines empirically (e.g. open data, climate change)\nOne tag should describe what kinds of methods your project engages (e.g. ethnography)\n\n\nClick Save!\n10:30-10:45 - Introductions via PECE Artifacts\n10:45-11:15 - Collaborative Planning and Hermeneutics\nWe are going to work with this question set to conceptualize what an archive of this project could look like. Specifically, you should consider the following three questions:\n\nWhat is the platform designed to recollect and preserve?\nWhat is this archive|platform designed to push against? Are there, for example, exclusions and inequalities in its problem space that the archive|platform could begin to reorder?\nWhat collections will be in this archive?\n\nIn the first 10 minutes, everyone should independently respond to at least one of these questions by annotating the artifact they created earlier.\nIn the second 20 minutes, groups will share what they’ve recorded and open for broader discussion about these questions.\n11:15-11:30 Report-outs and Demonstration of PECE Annotation Interfaces\n11:30-12:00 Overview of PECE Planning Tools\n\nPECE Set-Up\nConceptualization Exercises (See all question sets starting with “Archive Ethnography”)\nExample Style Guide\nTagging Protocols Example\nPermission to Publish\nDocuments that should be discussed/developed\n\nTerms of Service Policy/Privacy Policy\nDeed of Gift/Documentation Release form\nData Management Plan\nDecommissioning doc\nCode of Conduct\nCopyright Policy"
-  },
-  {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "PECE Workshops",
-    "section": "",
-    "text": "Link to workshop materials"
-  },
-  {
-    "objectID": "workshops/frankfurt2024.html",
-    "href": "workshops/frankfurt2024.html",
-    "title": "PECE Workshop - Goethe University",
-    "section": "",
-    "text": "10:00-10:10 - Overview and Logistics\n\nIf you didn’t already have an account, an account was created for you on worldpece.org.\n\nYour username is the text before your institutional email. I will state your password in the workshop.\nPlease try to log in, and be prepared to call me over if you can’t.\n\nWe are going to try to self-organize into groups that plan to, are currently, or recently have worked together on a “project.”\n\n10:10-10:30 - Imagining an Archive\n\nIdentify a digital object that represents your “project” to upload as an artifact. If you have a logo, you might upload it as an image artifact; if you have a project description, you might upload it as a text artifact; if you have a website, you might upload it as a Website artifact.\nOne person in the group should share their screen with others as they talk through how to create this artifact.\nTitle the artifact\nLeave blank the following field: Cite as part of…\nUnder Contributors, add all of the user names of the individuals in your group.\nUnder Critical Commentary, provide a brief description of the project.\nUnder Source, list where this artifact came from.\nUnder Creators, list any individuals that helped to create the specific data file. For instance, if you uploaded a logo, you might list the person that designed it. Otherwise, leave it blank.\nLeave blank the following field: Created Date\nSelect the Language from the dropdown field.\nLeave blank the following field: Fieldsite\nLeave blank the following field: Bibliography\nLeave the default setting under License\nSet the Permissions to Open\nUnder Group Audience, select PECE Workshop Sandbox and leave the default group settings\nAdd 3 Tags. Tags should be single words or short phrases.\n\nOne tag should describe what your project is (e.g. research project, speaker series, academic program)\nOne tag should describe what your project examines empirically (e.g. open data, climate change)\nOne tag should describe what kinds of methods your project engages (e.g. ethnography)\n\n\nClick Save!\n10:30-10:45 - Introductions via PECE Artifacts\n10:45-11:15 - Collaborative Planning and Hermeneutics\nWe are going to work with this question set to conceptualize what an archive of this project could look like. Specifically, you should consider the following three questions:\n\nWhat is the platform designed to recollect and preserve?\nWhat is this archive|platform designed to push against? Are there, for example, exclusions and inequalities in its problem space that the archive|platform could begin to reorder?\nWhat collections will be in this archive?\n\nIn the first 10 minutes, everyone should independently respond to at least one of these questions by annotating the artifact they created earlier.\nIn the second 20 minutes, groups will share what they’ve recorded and open for broader discussion about these questions.\n11:15-11:30 Report-outs and Demonstration of PECE Annotation Interfaces\n11:30-12:00 Overview of PECE Planning Tools\n\nPECE Set-Up\nConceptualization Exercises (See all question sets starting with “Archive Ethnography”)\nExample Style Guide\nTagging Protocols Example\nPermission to Publish\nDocuments that should be discussed/developed\n\nTerms of Service Policy/Privacy Policy\nDeed of Gift/Documentation Release form\nData Management Plan\nDecommissioning doc\nCode of Conduct\nCopyright Policy"
   }
 ]
