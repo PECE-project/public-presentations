@@ -12,3 +12,11 @@ date: "Last updated on `r Sys.Date()`"
 In this talk, I will narrate the tensions of designing the Platform for Experimental Collaborative Ethnography (PECE) - a software distribution for supporting multi-sited and multi-perspectival ethnographic research. In particular, I will discuss the architectural challenges to designing data storage systems, interfaces, and workflows that foster collaborative analysis while leaving ethnographic data open to productive reinterpretation.  
 
 [Link to slides](talks/frankfurt2024.html)
+
+## 2024 (Feb 19) University of Leiden, Netherlands
+
+### Infrastructuring Collaborative Hermeneutics: Databasing Double Bind while Pursuing PECE
+
+The Platform for Experimental Collaborative Ethnography (PECE) is a research software distribution that promotes archiving, sharing, and collaboratively analyzing ethnographic artifacts. In this workshop, we will discuss both the design and use of PECE, examining how the software can be deployed to support research data management, collaborative hermeneutic analysis, and the experimental publication of research materials. We will discuss the rationale for certain PECE design choices and how PECE's affordances can be creatively engaged to support collaborative research projects.
+
+[Link to slides](talks/leiden2024.html)

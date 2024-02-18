@@ -1,0 +1,68 @@
+---
+title: "PECE Workshop - University of Leiden"
+author: "Lindsay Poirier"
+format: html
+editor: source
+---
+
+## Agenda
+
+### Overview and Logistics
+
+- If you didn't already have an account **and you responded yes to the RSVP**, an account was created for you on [worldpece.org](worldpece.org). 
+  - Please check your email for account username and password.  
+  - Please try to log in, and be prepared to call me over if you can't. 
+
+### Imagining an Archive
+
+-   Identify a digital object that represents an imagined collaborative "project" to upload as an artifact. If you have a logo, you might upload it as an image artifact; if you have a project description, you might upload it as a text artifact; if you have a website, you might upload it as a Website artifact. 
+-   One person in the group should share their screen with others as they talk through how to create this artifact. 
+  -   **Title** the artifact
+  -   Leave blank the following field: **Cite as part of...**
+  -   Under **Contributors**, add all of the user names of the individuals in your group, *including yourself*.
+  -   Under **Critical Commentary**, provide a brief description of the project.
+  -   Under **Source**, provide a brief description of where this artifact came from. 
+  -   Under **Creators**, list any individuals that helped to create the specific data file. For instance, if you uploaded a logo, you might list the person that designed it. *Otherwise, leave it blank.*
+  -   Leave blank the following field: **Created Date** (*Note that this field is currently broken - because something always breaks right before a workshop.*)
+  -   Select the **Language** from the dropdown field.
+  -   Leave blank the following field: **Fieldsite**
+  -   Leave blank the following field: **Bibliography**
+  -   Leave the default setting under **License**
+  -   Set the **Permissions** to Open
+  -   Under **Group Audience**, select PECE Workshop Sandbox and leave the default group settings
+  -   Add 3 **Tags**. Tags should be single words or short phrases.
+      -   One tag should describe what your project is (e.g. research project, speaker series, academic program)
+      -   One tag should describe what your project examines empirically (e.g. open data, climate change)
+      -   One tag should describe what kinds of methods your project engages (e.g. ethnography)
+
+Click Save!
+
+### Collaborative Planning and Hermeneutics
+
+We are going to work with [this question set](https://worldpece.org/structured-analytics-questions-set/archive-ethnography-conceptualization) to conceptualize what an archive of this project could look like. Specifically, you should consider the following three questions: 
+
+-   What is the platform designed to recollect and preserve?
+-   What is this archive|platform designed to push against? Are there, for example, exclusions and inequalities in its problem space that the archive|platform could begin to reorder?
+-   What collections will be in this archive?
+
+In the first 10 minutes, everyone should independently respond to at least one of these questions by annotating the artifact they created earlier. 
+
+In the second 20 minutes, groups will share what they've recorded and open for broader discussion about these questions.
+
+### Report-outs and Demonstration of PECE Annotation Interfaces
+
+### Overview of PECE Planning Tools
+
+- [PECE Set-Up](https://docs.google.com/document/d/1OH2pNamSFu5KQKkMtnP-PU7APOcDuE6vDXf8isEf35c/edit?usp=sharing)
+- [Conceptualization Exercises](https://worldpece.org/repo/analyze) (See all question sets starting with "Archive Ethnography")
+- [Example Style Guide](https://docs.google.com/document/d/1duWh4lY1_bWCzsNL8ZoJzmREVA5UJML4Xn9B65BvH9U/edit)
+- [Tagging Protocols Example](https://docs.google.com/document/d/1_f79YXiVBnow24Yph7aZp_GM2NlBUnIEQL-TuJE7l_M/edit?usp=sharing)
+- [Permission to Publish](https://stsinfrastructures.org/content/sts-i-permissions-publish)
+- Documents that should be discussed/developed
+    -   Terms of Service Policy/Privacy Policy
+    -   Deed of Gift/Documentation Release form
+    -   Data Management Plan
+    -   Decommissioning doc
+    -   Code of Conduct
+    -   Copyright Policy
+

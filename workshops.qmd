@@ -9,3 +9,7 @@ date: "Last updated on `r Sys.Date()`"
 ## 2024 (Feb 8) Goethe University Frankfurt, Germany
 
 [Link to workshop materials](workshops/frankfurt2024.html)
+
+## 2024 (Feb 19) University of Leiden
+
+[Link to workshop materials](workshops/leiden2024.html)
